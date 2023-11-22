@@ -57,7 +57,7 @@ Otobüsüm Nerede(Mobiiett) servisinin bulunan endpoint listesi.
     const axios = require('axios');
 
 
-    const apiUrl = 'https://token.endpoint.com/oauth2/token'; // Değiştirmeniz gereken URL
+    const apiUrl = 'https://ntcapi.iett.istanbul/oauth2/v2/auth'; // Değiştirmeniz gereken URL
     
     const requestBody = {
       client_id: 'thAwizrcxoSgzWUzRRzhSyaiBQwQlOqA',
