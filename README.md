@@ -256,40 +256,4 @@ Otobüsüm Nerede(Mobiiett) servisinin bulunan endpoint listesi.
 
 <hr>
 
-    {
-	    "55":  {
-	    "guzergah":  {
-		    "HAT":  "55",
-		    "BILGI":  "Güzergah üzerindeki yoğun trafik nedeniyle araçlarımız seferlerine 20 dakika ve üzeri rötarlı hareket etmektedir. (09:41) GAZİOSMANPAŞA durağından başlayacak 14:40 seferi 5 dk. erken hareket edecek şekilde düzenlenmiştir.",
-		    "KATEGORI":  "guzergah",
-		    "SAAT":  "14:14",
-		    "SEVIYE":  3,
-		    "VERI_SAATI":  "22-11-2023 14:14",
-		    "YONU":  "T"
-	    },
-	    "revizyonduyuru":  {
-		    "HAT":  "55",
-		    "SEVIYE":  2,
-		    "KATEGORI":  "guncelRevizyon",
-		    "BILGI":  " 16-11-2023 itibariyle Cumartesi 9 sefer, Haftaiçi 9 sefer, Pazar 1 sefer ilave edilmiştir.",
-		    "kaynak":  "#Kaynak:ybsServis_73"
-	    },
-	    "revizyon":  {
-		    "HAT":  "55",
-		    "MESAJ":  "Cumartesi 9 sefer, Haftaiçi 9 sefer, Pazar 1 sefer ilave edilmiştir.",
-		    "KATEGORI":  "revizyon",
-		    "REVIZYON_TARIH":  "16-11-2023",
-		    "SEVIYE":  1,
-		    "VERI_SAATI":  "22-11-2023 14:14",
-		    "GUNCEL":  "yeni",
-		    "BILGI":  "Hat sefer saatleri son güncelleme(revizyon) tarihi: 16-11-2023"
-		    }
-	    }
-    }
-    
-  
-        
-
-
-
-
+   ![Response](https://i.hizliresim.com/88meqrb.png)
