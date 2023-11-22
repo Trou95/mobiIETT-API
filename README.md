@@ -33,7 +33,7 @@ Otobüsüm Nerede(Mobiiett) servisinin bulunan endpoint listesi.
 
 > **Not**: client_id & client_secret bilgileri cihaz için uygulamanın kurulum aşamasında oluşturuluyor. Kontrolünün nasıl sağlandığından emin değilim. Uzun süre önce oluşturduğum bilgilerle giriş yapabiliyorum.
 
-**JS ve Axis ile örnek bir Request**
+**JS ve Axios ile örnek bir Request**
 
     {
      "client_id":"thAwizrcxoSgzWUzRRzhSyaiBQwQlOqA",
