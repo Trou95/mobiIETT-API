@@ -8,6 +8,7 @@ Otobüsüm Nerede(Mobiiett) servisinin bulunan endpoint listesi.
     
 
 > URL: ntcapi.iett.istanbul
+> 
 > Endpoint: oauth2/v2/auth
 
 **Request:**
@@ -20,8 +21,11 @@ Otobüsüm Nerede(Mobiiett) servisinin bulunan endpoint listesi.
 	}
 
 > client_id: Cihaz kimliği
+> 
 > client_secret: Cihaz için atanan secret key
+> 
 > grant_type: autharization tipi ("client_credentials" olarak belirtilmeli)
+> 
 > scope: Oluşturulacak token'in kullanılacağı scope (sonraki isteklerde gerekli olacak. "service" olarak belirtilmeli)
 
 
@@ -76,6 +80,7 @@ Otobüsüm Nerede(Mobiiett) servisinin bulunan endpoint listesi.
 ## Arama
 
 > Endpoint: /service
+> 
 > alias: mainGetLine_basic_search
 
 **Request**
@@ -108,6 +113,7 @@ Otobüsüm Nerede(Mobiiett) servisinin bulunan endpoint listesi.
 ## Rota Bilgisi
 
 > Endpoint: /service
+> 
 > alias: mainGetRoute
 
 **Örnek Request & Response**
@@ -167,6 +173,7 @@ Otobüsüm Nerede(Mobiiett) servisinin bulunan endpoint listesi.
 ## Hat Bilgisi
 
 > Endpoint: /service
+> 
 > alias: mainGetBusRunBusStopPass
 
     {
@@ -179,6 +186,7 @@ Otobüsüm Nerede(Mobiiett) servisinin bulunan endpoint listesi.
 <hr>
     
 > Endpoint: /service
+> 
 > alias: mainGetLine_basic
   
      {  
@@ -206,6 +214,7 @@ Otobüsüm Nerede(Mobiiett) servisinin bulunan endpoint listesi.
 ## Duyuru
 
 > Endpoint: /service
+> 
 > alias: ybs
 
     {
@@ -221,7 +230,9 @@ Otobüsüm Nerede(Mobiiett) servisinin bulunan endpoint listesi.
 	 }
 
 > **Not**: username ve password sabit değerlere sahip.
+> 
 > username: netuce
+> 
 > password: n1!t8c7M1
 
 **Örnek Request & Response**
